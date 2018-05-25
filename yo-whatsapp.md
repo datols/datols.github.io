@@ -1,7 +1,7 @@
 ---
 layout: page
-title: YOWhatsApp Apk Download for Android
-permalink: /yowhatsapp-apk-download
+title: Daemon Tools Download (FREE)
+permalink: /daemon-tools-download
 ---
 
 <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
